@@ -33,7 +33,7 @@ You can adjust the hyperparameters based on your needs.
 
 We appreciate the following github repo very much for the valuable code base and datasets:
 
-https://github.com/PatchTST
+https://github.com/yuqinie98/PatchTST
 
 https://github.com/cure-lab/LTSF-Linear
 
